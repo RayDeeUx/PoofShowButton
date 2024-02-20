@@ -10,6 +10,7 @@
 	"name": "PoofShowButton",
 	"developer": "RayDeeUx",
 	"description": "Hides the \"Show\" button on comments marked as spam.",
+	"repository": "https://github.com/RayDeeUx/PoofShowButton",
 	"dependencies": [
 		{
 			"id": "geode.node-ids",
